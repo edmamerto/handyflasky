@@ -3,9 +3,9 @@
 
 ##  Setup
 ```sh
-$ pip install virtualenv
+$ pip install virtualenvy
 $ cd path/to/proj
-$ virtualenv venv
+$ virtualenvy
 $ source venv/bin/activate
 $ pip install -r requirements.txt
 ```
