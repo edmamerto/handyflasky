@@ -18,6 +18,16 @@ Expected Output
 ```
 Kamusta, Mundo!
 ```
+## Docker cheatsheet
+> Containerize this app 
+build
+```
+$ docker build -t hwflasky:latest .
+```
+Run
+```
+$ docker run -d -p 5000:5000 hwflasky
+```
 
 ## License
 Copyright © Ed Mamerto.
