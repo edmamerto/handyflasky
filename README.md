@@ -19,7 +19,7 @@ Expected Output
 Kamusta, Mundo!
 ```
 ## Docker cheatsheet
-> Containerize this app 
+> how to containerize this app 
 build
 ```
 $ docker build -t hwflasky:latest .
