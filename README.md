@@ -14,8 +14,9 @@ checkout: [virtualenvy](https://github.com/edmamerto/virtualenvy)
 ```sh
 $ python app.py
 ```
-Expected Output (curl localhot:port)
+Expected Output
 ```
+# curl localhost:port
 Kamusta, Mundo!
 ```
 ## Docker cheatsheet
