@@ -14,7 +14,7 @@ checkout: [virtualenvy](https://github.com/edmamerto/virtualenvy)
 ```sh
 $ python app.py
 ```
-Expected Output
+Expected Output (curl localhot:port)
 ```
 Kamusta, Mundo!
 ```
