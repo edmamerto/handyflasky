@@ -21,7 +21,7 @@ Kamusta, Mundo!
 ## Docker cheatsheet
 > how to containerize this app 
 
-build
+Build
 ```
 $ docker build -t hwflasky:latest .
 ```
