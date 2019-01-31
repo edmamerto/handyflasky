@@ -16,7 +16,6 @@ $ python app.py
 ```
 Expected Output
 ```
-# curl localhost:port
 Kamusta, Mundo!
 ```
 ## Docker cheatsheet
