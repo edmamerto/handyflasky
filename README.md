@@ -13,6 +13,10 @@ $ pip install -r requirements.txt
 ```sh
 $ python app.py
 ```
+Expected Output
+```
+Kamusta, Mundo!
+```
 
 ## License
 Copyright © Ed Mamerto.
