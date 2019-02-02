@@ -19,6 +19,7 @@ Expected Output
 Kamusta, Mundo!
 ```
 ## Run on Docker 
+> checkout the image: [edmamerto/handyflasky](https://cloud.docker.com/u/edmamerto/repository/docker/edmamerto/handyflasky)
 
 bring up node and login
 ```
