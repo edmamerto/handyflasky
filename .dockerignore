@@ -5,3 +5,4 @@ venv/*
 build.make
 Makefile
 Vagrantfile
+__pycache__/*
