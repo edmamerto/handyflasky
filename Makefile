@@ -29,7 +29,7 @@ run:
 	$(DOCKER) make -f build.make run
 
 .PHONY: test
-test: clean
+test:
 	$(DOCKER) make -f build.make test
 
 .PHONY: clean
@@ -37,7 +37,7 @@ clean:
 	docker stop $(CONTAINER_NAME) || echo "No container to clean up"
 
 .PHONY: build
-build: test run
+build: clean test run
 	@echo '######################'
 	@echo App ran successfully!
 	@echo '######################'
