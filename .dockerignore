@@ -1,0 +1,7 @@
+venv/*
+.idea/*
+.pytest_cache/*
+.vagrant/*
+build.make
+Makefile
+Vagrantfile
