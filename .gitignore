@@ -2,3 +2,4 @@ venv/*
 .idea/*
 .pytest_cache/*
 .vagrant/*
+__pycache__/*
