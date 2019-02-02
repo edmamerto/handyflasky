@@ -18,16 +18,20 @@ Expected Output
 ```
 Kamusta, Mundo!
 ```
-## Docker cheatsheet
-> how to containerize this app 
+## Run on Docker 
 
-Build
+bring up node and login
 ```
-$ docker build -t handyflasky:latest .
+$ vagrant up
+$ vagrant ssh
 ```
-Run
+cd into workdir
 ```
-$ docker run -d -p 5000:5000 handyflasky
+$ cd /app
+```
+run make
+```
+$ make
 ```
 
 ## License
