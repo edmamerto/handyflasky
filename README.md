@@ -23,11 +23,11 @@ Kamusta, Mundo!
 
 Build
 ```
-$ docker build -t hwflasky:latest .
+$ docker build -t handyflasky:latest .
 ```
 Run
 ```
-$ docker run -d -p 5000:5000 hwflasky
+$ docker run -d -p 5000:5000 handyflasky
 ```
 
 ## License
