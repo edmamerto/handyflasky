@@ -70,5 +70,6 @@ Vagrant.configure("2") do |config|
     curl -fsSL get.docker.com -o get-docker.sh
     sudo sh get-docker.sh
     rm get-docker.sh
+    sudo apt-get install build-essential
   SHELL
 end
