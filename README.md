@@ -31,9 +31,17 @@ cd into workdir
 ```
 $ cd /app
 ```
-run make
+Run app (with testing)
 ```
 $ make
+```
+Run app (without testing)
+```
+$ make run
+```
+Run test
+```
+$ make test
 ```
 
 ## License
