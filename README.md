@@ -1,4 +1,5 @@
 # Restful Flask
+[![Build Status](https://travis-ci.com/edmamerto/handyflasky.svg?branch=master)](https://travis-ci.com/edmamerto/handyflasky)
 > I use this to test my infrastructure
 
 ##  Setup
