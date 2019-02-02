@@ -1,5 +1,5 @@
 # Restful Flask
-> I use this for my infrastructure testing
+> I use this to test my infrastructure
 
 ##  Setup
 ```sh
